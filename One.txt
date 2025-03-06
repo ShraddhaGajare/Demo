@@ -1,0 +1,4 @@
+Step  1 :- Create new Repository.
+Step 2 :-  Create Text file on your System say  text.txt
+
+
